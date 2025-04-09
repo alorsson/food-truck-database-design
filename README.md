@@ -1,8 +1,8 @@
 # Food Truck Company Database Design
 
-**Course:** BUS 315 – Database Management
-
 [Food Truck Business Database Report – BUS 315 Final Project](./BUS-315%20Food%20Truck%20Business%20Project.pdf)
+
+**Course:** BUS 315 – Database Management
 
 
 ## Project Overview
